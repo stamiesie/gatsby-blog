@@ -5,7 +5,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 const IndexPage = () => {
   return (
       <Layout pageTitle="HomePage">
-      <p>This is a simple blog made with Gatsby.</p>
+      <p>Hi, I'm Tuna the cat.  I made this is a simple blog made with Gatsby.</p>
       <StaticImage
       alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
       src="../images/tuna_1.jpg"
